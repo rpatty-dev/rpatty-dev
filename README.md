@@ -5,7 +5,7 @@ I usually make FiveM scripts for QBCore but have other projects.
 ----------------------------------------------------------------
 
 *   🌍  I'm based in ireland
-*   🖥️  See my portfolio at [Socials](http://rpatty.co.uk)
+*   🖥️  See my Socials at [Socials](http://rpatty.co.uk)
 *   ✉️  You can contact me at [rpattymail@gmail.com](mailto:rpattymail@gmail.com)
 *   🧠  I'm learning QBCore FiveM scripts### Skills 
 <p align="left">
