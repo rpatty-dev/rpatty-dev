@@ -18,7 +18,8 @@ I usually make FiveM scripts for QBCore but have other projects.
 </p>
 <a href="https://github.com/qbcore-framework/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/81791099?s=200&v=4" width="36" height="36" alt="QBCore" /></a>
 </p>
-
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://www.lua.org/images/lua30.gif" width="36" height="36" alt="LUA (FiveM)" /></a>
+</p>
 
 ### Socials
 
