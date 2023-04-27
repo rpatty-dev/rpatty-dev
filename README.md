@@ -16,7 +16,7 @@ I usually make FiveM scripts for QBCore but have other projects.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
-<a href="[https://www.adobe.com/uk/products/aftereffects.html](https://github.com/qbcore-framework/)" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/108372609/234954914-04ba9361-1abb-4fbb-84f9-284ea0350c43.png)![Uploading image.png…]()
+<a href="https://github.com/qbcore-framework/" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/108372609/234955155-55598207-3427-4c05-90d0-d99e2dae2e9d.png)
 " width="36" height="36" alt="QBCore" /></a>
 </p>
 
