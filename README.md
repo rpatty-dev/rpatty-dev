@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is rpatty
+==============================================================================================================================
 
-<!--
-**rpatty-dev/rpatty-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I usually make FiveM scripts for QBCore but have other projects.
+----------------------------------------------------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in ireland
+*   🖥️  See my portfolio at [Socials](http://rpatty.co.uk)
+*   ✉️  You can contact me at [rpattymail@gmail.com](mailto:rpattymail@gmail.com)
+*   🧠  I'm learning QBCore FiveM scripts<a href="https://www.twitter.com/rpatty" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/rpatty?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
+                /></a>### Skills 
+<p align="left">
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/rpatty#4280" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/rpatty-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/rpatty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.youtube.com/c/rpatty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/rpatty-dev"><img src="https://github-readme-stats.vercel.app/api?username=rpatty-dev&show_icons=true&hide=prs,issues,contribs&title_color=facc15&text_color=444e59&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="rpatty-dev's GitHub stats" /></a>
