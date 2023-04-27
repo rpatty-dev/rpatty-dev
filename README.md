@@ -12,10 +12,11 @@ I usually make FiveM scripts for QBCore but have other projects.
 ### Skills
 
 
-<p align="center">
+<p align="left">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
+<p align="left">
 <a href="https://github.com/qbcore-framework/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/81791099?s=200&v=4" width="36" height="36" alt="QBCore" /></a>
 </r>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://www.lua.org/images/lua30.gif" width="36" height="36" alt="LUA (FiveM)" /></a>
