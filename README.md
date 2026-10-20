@@ -1,103 +1,86 @@
 <div align="center">
 
-# rpatty &mdash; `rpatty`
+# `rpatty` 🐇
 
-**Principal Systems Architect &bull; API & Autonomous Infrastructure Engineer &bull; Nitech**
+**Systems Architect &bull; API & Autonomous Infrastructure Engineer &bull; Nitech**
 
 *Professional larper.*
 
 <p align="center">
-  <a href="https://nitech.dev"><img src="https://img.shields.io/badge/ORG-NITECH.DEV-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="Nitech" /></a>
-  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/DIRECT-INFO%40NITECH.DEV-2563eb?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/rpatty-dev"><img src="https://img.shields.io/badge/SOURCE-RPATTY--DEV-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://nitech.dev"><img src="https://img.shields.io/badge/Org-nitech.dev-38bdf8?style=flat-square&logo=safari&logoColor=white" alt="Nitech" /></a>
+  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/Say%20Hello-info%40nitech.dev-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/rpatty-dev"><img src="https://img.shields.io/badge/GitHub-rpatty--dev-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │  rpatty @ nitech-core :: low-level runtime, event fabrics & protocols  │
-  └────────────────────────────────────────────────────────────────────────┘
+  (\(\  
+  ( -.-)  zZz
+  o_(")(")
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Low-latency+distributed+runtimes+%26+autonomous+sentinels;Deterministic+APIs%2C+zero-dependency+protocols%2C+raw+sockets;Distributed+event-driven+microservices+%26+state-machines;High-throughput+data+pipelines+%26+real-time+telemetry" alt="Systems Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+Part+of+Nitech+🐇;Building+lightweight+systems+%26+clean+APIs;Zero-dependency+tools+%26+raw+network+protocols;Making+software+fast%2C+reliable%2C+and+fun" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-### &sect; Engineering Thesis
+### 🐰 About Me
 
-I architect high-performance, fault-tolerant infrastructure and deterministic API systems. My focus centers on **zero-dependency engineering**, low-overhead distributed runtimes, protocol parsing over raw transport layers (UDP/TCP/SNMP), and resilient event-driven architectures that scale without runtime bloat.
+Hey! I’m **rpatty**, part of the team at **[Nitech](https://nitech.dev)**. I build clean, high-performance systems and backend APIs. I love minimal, zero-dependency tools that do their job reliably without extra bloat or fuss.
 
-Whether implementing micro-second telemetry dispatchers, strict REST/gRPC fabrics, or autonomous state-machine daemons, my standard is clean, self-contained, mission-critical engineering with zero operational overhead.
+When I’m not writing code or experimenting with network protocols, I’m busy being a professional larper. 🐇
 
 ---
 
-### &sect; Architectural Disciplines & Systems
+### 🛠️ What I Work On
 
 <table>
   <thead>
     <tr>
-      <th align="left" width="30%">Core Domain</th>
-      <th align="left" width="40%">Implementation Focus</th>
-      <th align="left" width="30%">Stack / Standard</th>
+      <th align="left" width="30%">Area</th>
+      <th align="left" width="40%">What I Do</th>
+      <th align="left" width="30%">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>API Design & Engine Architecture</strong></td>
-      <td>RESTful contracts, OpenAPI 3.1 specifications, gRPC microservices, deterministic rate limiters, idempotent state transitions, JWT/OAuth2 security boundaries.</td>
-      <td><code>FastAPI</code> &bull; <code>Pydantic V2</code> &bull; <code>Node.js</code> &bull; <code>REST/gRPC</code></td>
+      <td><strong>⚡ APIs & Backends</strong></td>
+      <td>Clean REST APIs, async services, background workers, and simple, predictable architecture.</td>
+      <td><code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Node.js</code></td>
     </tr>
     <tr>
-      <td><strong>Low-Level Protocol & Sockets</strong></td>
-      <td>Zero-dependency RFC implementations, raw UDP/TCP socket servers, low-overhead hardware polling engines, byte-level telemetry decoders.</td>
-      <td><code>Pure Python Stdlib</code> &bull; <code>Raw Sockets</code> &bull; <code>SNMP</code> &bull; <code>BER/DER</code></td>
+      <td><strong>🌐 Protocols & Network Tools</strong></td>
+      <td>Raw UDP/TCP sockets, SNMP monitoring, and pure zero-dependency sentinels.</td>
+      <td><code>Pure Stdlib</code> &bull; <code>Sockets</code> &bull; <code>SNMP</code></td>
     </tr>
     <tr>
-      <td><strong>Distributed Event Fabrics & Daemons</strong></td>
-      <td>Autonomous background sentinels, fault-tolerant worker pools, dead-letter queues, event-sourcing ledgers, resilient heartbeat monitors.</td>
-      <td><code>Asyncio</code> &bull; <code>Redis Streams</code> &bull; <code>WebSockets</code> &bull; <code>Workers</code></td>
+      <td><strong>💾 Databases & Data</strong></td>
+      <td>Schema design, reliable migrations, query speed, and data integrity.</td>
+      <td><code>PostgreSQL</code> &bull; <code>SQLite</code> &bull; <code>Redis</code></td>
     </tr>
     <tr>
-      <td><strong>Data Engineering & Storage</strong></td>
-      <td>Relational schema design, ACID transactions, timeseries ingestion, connection pooling, automated query optimization, zero-downtime migrations.</td>
-      <td><code>PostgreSQL</code> &bull; <code>SQLite (WAL)</code> &bull; <code>SQLAlchemy 2.0</code></td>
+      <td><strong>🖥️ Frontends & Interfaces</strong></td>
+      <td>Snappy, responsive web apps and clean dashboards.</td>
+      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code></td>
     </tr>
     <tr>
-      <td><strong>Full-Stack Applications & Systems UI</strong></td>
-      <td>Mission-control dashboards, real-time reactive interfaces, terminal-grade responsive design systems, low-latency telemetry visualizations.</td>
-      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code> &bull; <code>Next.js</code></td>
-    </tr>
-    <tr>
-      <td><strong>Systems Automation & Workstation CLI</strong></td>
-      <td>Native OS orchestration, batch workstation provisioning, unattended silent runners, shell defense automation, CI/CD GitOps pipelines.</td>
-      <td><code>C# / .NET</code> &bull; <code>PowerShell</code> &bull; <code>Bash (POSIX)</code> &bull; <code>Docker</code></td>
+      <td><strong>🔧 Automation & Utilities</strong></td>
+      <td>Helpful scripts, workstation automation, and CI/CD workflows that save time.</td>
+      <td><code>C# / .NET</code> &bull; <code>PowerShell</code> &bull; <code>Bash</code> &bull; <code>Docker</code></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### &sect; Systems Telemetry & Languages
-
-```
-  Primary Runtimes      ::  Python 3.12+ (Asyncio)  •  TypeScript / Node.js  •  C# (.NET 8+)
-  Protocols & Transport ::  HTTP/2 & REST  •  UDP Datagrams  •  TCP Sockets  •  WebSockets  •  SNMP
-  Persistence & Cache   ::  PostgreSQL  •  SQLite WAL  •  Redis  •  Distributed Event Logs
-  Infrastructure & Tool ::  Docker  •  Linux / POSIX  •  PowerShell  •  GitOps & CI/CD  •  HyperFrames
-  Engineering Standard  ::  Zero runtime dependencies where possible  •  Strict typing  •  TDD
-```
-
----
-
-### &sect; Verification & Output
+### 🐇 Activity
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpatty-dev&theme=tokyonight&hide_border=true&background=0b0f19&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8" alt="rpatty-dev GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpatty-dev&theme=tokyonight&hide_border=true&background=0b0f19&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="rpatty-dev Streak" />
 </p>
 
 </div>
@@ -105,6 +88,6 @@ Whether implementing micro-second telemetry dispatchers, strict REST/gRPC fabric
 ---
 
 <div align="center">
-  <p><sub>ENGINEERED AT <strong>NITECH</strong> &bull; HIGH CONCURRENCY &bull; DETERMINISTIC &bull; ZERO BLOAT</sub></p>
+  <p><sub>Built with care at <strong>Nitech</strong> 🐇</sub></p>
   <sub>🌐 <a href="https://nitech.dev">nitech.dev</a> &bull; ✉️ <a href="mailto:info@nitech.dev">info@nitech.dev</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
 </div>
