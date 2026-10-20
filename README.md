@@ -2,73 +2,85 @@
 
 # `rpatty` 🐇
 
-**Systems Architect &bull; API & Autonomous Infrastructure Engineer &bull; Nitech**
+**Agency Operator &bull; Full-Stack Systems Architect &bull; Automation Engineer &bull; Nitech**
 
 *Professional larper.*
 
+<br/>
+
+<p align="center">
+  <img src="lop-bunny.gif" alt="8-bit Lop Bunny" width="120" />
+</p>
+
 <p align="center">
   <a href="https://nitech.dev"><img src="https://img.shields.io/badge/Org-nitech.dev-38bdf8?style=flat-square&logo=safari&logoColor=white" alt="Nitech" /></a>
-  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/Say%20Hello-info%40nitech.dev-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/Direct-info%40nitech.dev-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/rpatty-dev"><img src="https://img.shields.io/badge/GitHub-rpatty--dev-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-```
-  (\(\  
-  ( -.-)  zZz
-  o_(")(")
-```
+<p align="center">
+  <img src="ascii-bunny.gif" alt="Animated ASCII Lop Bunny" width="360" />
+</p>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+Part+of+Nitech+🐇;Building+lightweight+systems+%26+clean+APIs;Zero-dependency+tools+%26+raw+network+protocols;Making+software+fast%2C+reliable%2C+and+fun" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Running+digital+agencies+%26+growth+campaigns;Scaling+paid+acquisition+%26+Facebook+Ads+infrastructure;Building+real-time+business+analytics+%26+dashboards;Automating+smart+homes%2C+IoT+%26+everyday+workflows;Engineering+zero-dependency+APIs+%26+autonomous+sentinels" alt="Typing SVG" /></a>
 </p>
 
 </div>
 
 ---
 
-### 🐰 About Me
+### 🐰 About & What I Build
 
-Hey! I’m **rpatty**, part of the team at **[Nitech](https://nitech.dev)**. I build clean, high-performance systems and backend APIs. I love minimal, zero-dependency tools that do their job reliably without extra bloat or fuss.
+Hey! I’m **rpatty**, operating at **[Nitech](https://nitech.dev)**.
 
-When I’m not writing code or experimenting with network protocols, I’m busy being a professional larper. 🐇
+I don’t just write code — I build and run full-cycle businesses:
+- **Agencies & Growth:** Scaling client acquisition, brand ops, and high-converting paid traffic campaigns (Facebook & Meta Ads) backed by deep tracking and attribution.
+- **Analytics & Data Pipelines:** Custom revenue dashboards, conversion analytics, event tracking, and telemetry infrastructure that tell you the truth about your numbers.
+- **Everyday Life & Smart Home Automation:** Designing frictionless IoT ecosystems, local-first home automations, autonomous schedulers, and background daemons that handle daily routines silently.
+- **Zero-Dependency Systems & APIs:** High-speed, lightweight backend engines, raw network protocol handlers (UDP/TCP/SNMP), and resilient state-machines built with zero third-party bloat.
+
+And of course, professional larper. 🐇
 
 ---
 
-### 🛠️ What I Work On
+### 🛠️ Capabilities & Tech Matrix
 
 <table>
   <thead>
     <tr>
-      <th align="left" width="30%">Area</th>
-      <th align="left" width="40%">What I Do</th>
-      <th align="left" width="30%">Stack</th>
+      <th align="left" width="30%">Focus Area</th>
+      <th align="left" width="45%">What I Deliver</th>
+      <th align="left" width="25%">Tools &amp; Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>⚡ APIs & Backends</strong></td>
-      <td>Clean REST APIs, async services, background workers, and simple, predictable architecture.</td>
-      <td><code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Node.js</code></td>
+      <td><strong>📈 Agency &amp; Paid Media</strong></td>
+      <td>Media buying, Facebook Ads scaling, campaign architecture, conversion tracking, creative testing frameworks, and client acquisition funnels.</td>
+      <td><code>Meta Ads Manager</code> &bull; <code>Conversions API</code> &bull; <code>Attribution</code></td>
     </tr>
     <tr>
-      <td><strong>🌐 Protocols & Network Tools</strong></td>
-      <td>Raw UDP/TCP sockets, SNMP monitoring, and pure zero-dependency sentinels.</td>
-      <td><code>Pure Stdlib</code> &bull; <code>Sockets</code> &bull; <code>SNMP</code></td>
+      <td><strong>📊 Business Analytics</strong></td>
+      <td>Real-time business dashboards, custom event ingestion, Cohort retention, profit tracking, and automated reporting.</td>
+      <td><code>PostgreSQL</code> &bull; <code>SQLite WAL</code> &bull; <code>Redis</code> &bull; <code>Chart.js</code></td>
     </tr>
     <tr>
-      <td><strong>💾 Databases & Data</strong></td>
-      <td>Schema design, reliable migrations, query speed, and data integrity.</td>
-      <td><code>PostgreSQL</code> &bull; <code>SQLite</code> &bull; <code>Redis</code></td>
+      <td><strong>🏠 Smart Home &amp; Life Automations</strong></td>
+      <td>Frictionless everyday automations, local IoT controls, ambient sensors, task orchestration, and scheduled daemon routines.</td>
+      <td><code>Home Automation</code> &bull; <code>Webhooks</code> &bull; <code>cron/Task Scheduler</code></td>
     </tr>
     <tr>
-      <td><strong>🖥️ Frontends & Interfaces</strong></td>
-      <td>Snappy, responsive web apps and clean dashboards.</td>
-      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code></td>
+      <td><strong>⚡ APIs &amp; Low-Level Protocols</strong></td>
+      <td>Zero-dependency RFC implementations, raw socket servers, async REST microservices, and autonomous background sentinels.</td>
+      <td><code>Python (Asyncio)</code> &bull; <code>FastAPI</code> &bull; <code>Raw Sockets</code> &bull; <code>SNMP</code></td>
     </tr>
     <tr>
-      <td><strong>🔧 Automation & Utilities</strong></td>
-      <td>Helpful scripts, workstation automation, and CI/CD workflows that save time.</td>
-      <td><code>C# / .NET</code> &bull; <code>PowerShell</code> &bull; <code>Bash</code> &bull; <code>Docker</code></td>
+      <td><strong>🖥️ Full-Stack &amp; Desktop Tools</strong></td>
+      <td>Snappy, responsive web apps, internal company portals, and native Windows automation utilities.</td>
+      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code> &bull; <code>C# / .NET</code></td>
     </tr>
   </tbody>
 </table>
@@ -88,6 +100,6 @@ When I’m not writing code or experimenting with network protocols, I’m busy 
 ---
 
 <div align="center">
-  <p><sub>Built with care at <strong>Nitech</strong> 🐇</sub></p>
+  <p><sub>Built with care at <strong>Nitech</strong> 🐇 &bull; High signal, zero fluff.</sub></p>
   <sub>🌐 <a href="https://nitech.dev">nitech.dev</a> &bull; ✉️ <a href="mailto:info@nitech.dev">info@nitech.dev</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
 </div>

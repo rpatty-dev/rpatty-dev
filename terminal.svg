@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 80" width="100%" height="80" fill="none">
+  <defs>
+    <style>
+      .mono-text {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+        font-size: 19px;
+        font-weight: 600;
+        fill: #38bdf8;
+      }
+      .cursor {
+        animation: blink 0.8s infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="700" height="80" rx="12" fill="#0b0f19" stroke="#1e293b" stroke-width="1"/>
+  
+  <!-- Terminal Header Dots -->
+  <circle cx="24" cy="24" r="5" fill="#ef4444"/>
+  <circle cx="40" cy="24" r="5" fill="#f59e0b"/>
+  <circle cx="56" cy="24" r="5" fill="#10b981"/>
+  <text x="80" y="28" font-family="'JetBrains Mono', monospace" font-size="12" fill="#64748b">bash - nitech-sentinel</text>
+
+  <!-- Interactive / animated typewriter lines -->
+  <g transform="translate(24, 58)">
+    <text class="mono-text">
+      <tspan fill="#a855f7">&gt;</tspan>
+      <tspan fill="#f1f5f9"> </tspan>
+      <tspan fill="#38bdf8">
+        <animate attributeName="opacity" values="0;1;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.05;0.22;0.25"/>
+        Agency growth &amp; paid acquisition engines (Meta/FB)
+      </tspan>
+      <tspan fill="#f472b6">
+        <animate attributeName="opacity" values="0;0;1;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.25;0.30;0.47;0.50"/>
+        High-throughput analytics &amp; custom telemetry
+      </tspan>
+      <tspan fill="#34d399">
+        <animate attributeName="opacity" values="0;0;1;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.50;0.55;0.72;0.75"/>
+        Smart home &amp; everyday autonomous IoT automations
+      </tspan>
+      <tspan fill="#fbbf24">
+        <animate attributeName="opacity" values="0;0;1;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.75;0.80;0.97;1"/>
+        Zero-dependency APIs, sockets &amp; distributed systems
+      </tspan>
+      <tspan class="cursor" fill="#38bdf8"> ▋</tspan>
+    </text>
+  </g>
+</svg>
