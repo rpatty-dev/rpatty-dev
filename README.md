@@ -38,6 +38,25 @@
 
 </div>
 
+<br/>
+
+<!-- LEROY_STATUS_START -->
+<div align="center">
+  <table style="border: 1px solid #363530; background: #1c1b18; border-radius: 8px;">
+    <tr>
+      <td width="72" align="center" style="border: none;">
+        <img src="leroy/leroy-sleep.gif" width="58" alt="Leroy CBO" />
+      </td>
+      <td align="left" style="border: none; padding-left: 12px;">
+        <b>🐰 Leroy (Chief Bunny Officer) Live Duty: <code>agent-builder</code></b><br/>
+        <sub>Compilation daemon humming smoothly in background while CBO recharges.</sub><br/>
+        <sub><b>Current Fuel:</b> Cozy blanket snooze 💤 &bull; <b>Status:</b> Resting between build triggers 😴 &bull; <i>Updated: 2026-10-20 15:40 UTC</i></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- LEROY_STATUS_END -->
+
 ---
 
 ### 🐰 About & What I Build

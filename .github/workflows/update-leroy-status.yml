@@ -1,0 +1,35 @@
+name: Update Leroy CBO Live Status
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:      # Allows manual trigger anytime from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Leroy Live Status update
+        run: python scripts/update_leroy_status.py
+
+      - name: Commit & push changes if modified
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in Leroy CBO status."
+          else
+            git commit -m "chore(status): update live Leroy CBO agent duty & fuel"
+            git push origin main
+          fi
