@@ -1,107 +1,103 @@
 <div align="center">
 
-# Hey, I'm Ryan (`rpatty`) 👋
+# Ryan Pattison &mdash; `rpatty`
 
-### Professional larper &bull; Systems Engineer &bull; Part of **[Nitech](https://nitech.dev)**
+**Principal Systems Architect &bull; API & Autonomous Infrastructure Engineer &bull; Nitech**
+
+*Professional larper.*
 
 <p align="center">
-  <a href="https://nitech.dev"><img src="https://img.shields.io/badge/Website-nitech.dev-38bdf8?style=for-the-badge&logo=safari&logoColor=white" alt="Nitech" /></a>
-  <a href="https://github.com/rpatty-dev"><img src="https://img.shields.io/badge/GitHub-rpatty--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/Contact-info%40nitech.dev-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+  <a href="https://nitech.dev"><img src="https://img.shields.io/badge/ORG-NITECH.DEV-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="Nitech" /></a>
+  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/DIRECT-INFO%40NITECH.DEV-2563eb?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/rpatty-dev"><img src="https://img.shields.io/badge/SOURCE-RPATTY--DEV-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ```
-  ____   ____    _  _____ _____ __   __
- |  _ \ |  _ \  / \|_   _|_   _|\ \ / /
- | |_) || |_) |/ _ \ | |   | |   \ V / 
- |  _ < |  __/ ___ \| |   | |    | |  
- |_| \_\|_| /_/   \_\_|   |_|    |_|  
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  rpatty @ nitech-core :: low-level runtime, event fabrics & protocols  │
+  └────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Professional+larper;Part+of+Nitech;Building+zero-dependency+sentinels+%26+monitoring+tools;Full-stack+fleet+management+%26+workshop+intake;Pure-Python+hardware+protocols+(SNMP%2C+OBD-II%2C+GPS)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Low-latency+distributed+runtimes+%26+autonomous+sentinels;Deterministic+APIs%2C+zero-dependency+protocols%2C+raw+sockets;Distributed+event-driven+microservices+%26+state-machines;High-throughput+data+pipelines+%26+real-time+telemetry" alt="Systems Focus" />
 </p>
 
 </div>
 
 ---
 
-### 🏢 About & Affiliation
+### &sect; Engineering Thesis
 
-I am part of **[Nitech](https://nitech.dev)**, architecting production-grade platforms, vehicle intake systems, hardware sentinels, and enterprise tooling. Focused on zero-dependency utilities, raw network protocols, and bulletproof operational software.
+I architect high-performance, fault-tolerant infrastructure and deterministic API systems. My focus centers on **zero-dependency engineering**, low-overhead distributed runtimes, protocol parsing over raw transport layers (UDP/TCP/SNMP), and resilient event-driven architectures that scale without runtime bloat.
+
+Whether implementing micro-second telemetry dispatchers, strict REST/gRPC fabrics, or autonomous state-machine daemons, my standard is clean, self-contained, mission-critical engineering with zero operational overhead.
 
 ---
 
-### 🚀 Highlighted Projects
+### &sect; Architectural Disciplines & Systems
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖨️ <a href="https://github.com/rpatty-dev/PrinterPing">PrinterPing</a></h3>
-      <p>Zero-dependency, pure-Python SNMP network printer supply monitor and hardware alert daemon. Communicates over raw UDP sockets (RFC 3805 / 1514) with smart spare tracking and instant low-toner dispatch.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SNMP-UDP%20161-0284c7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Promo-60s%20Video-e6007e?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/rpatty-dev/Pitlane">Pitlane</a></h3>
-      <p>High-performance, open-source fleet maintenance, vehicle intake, and workshop repair platform. Real-time technician workflows, parts tracking, job sheets, and fleet telemetry.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-React-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fleet-Workshop-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Full--Stack-Modern-8b5cf6?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/rpatty-dev/MOTPing">MOTPing</a></h3>
-      <p>Zero-dependency, pure-Python DVLA/DVSA vehicle MOT & road tax monitoring engine, REST API, and reminder sentinel. Automates compliance alerts and fleet roadworthiness checks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/DVLA-Gov%20API-ff6b6b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sentinel-Daemon-f59e0b?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/rpatty-dev/winstaller">Winstaller</a></h3>
-      <p>Rapid automated Windows setup & workstation bootstrapper in C#. 1-click batch provisioning for dev tools, runtimes, drivers, and quality-of-life utilities on fresh installs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Windows-Automation-0078d4?style=flat-square&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/Setup-Fast-10b981?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="30%">Core Domain</th>
+      <th align="left" width="40%">Implementation Focus</th>
+      <th align="left" width="30%">Stack / Standard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>API Design & Engine Architecture</strong></td>
+      <td>RESTful contracts, OpenAPI 3.1 specifications, gRPC microservices, deterministic rate limiters, idempotent state transitions, JWT/OAuth2 security boundaries.</td>
+      <td><code>FastAPI</code> &bull; <code>Pydantic V2</code> &bull; <code>Node.js</code> &bull; <code>REST/gRPC</code></td>
+    </tr>
+    <tr>
+      <td><strong>Low-Level Protocol & Sockets</strong></td>
+      <td>Zero-dependency RFC implementations, raw UDP/TCP socket servers, low-overhead hardware polling engines, byte-level telemetry decoders.</td>
+      <td><code>Pure Python Stdlib</code> &bull; <code>Raw Sockets</code> &bull; <code>SNMP</code> &bull; <code>BER/DER</code></td>
+    </tr>
+    <tr>
+      <td><strong>Distributed Event Fabrics & Daemons</strong></td>
+      <td>Autonomous background sentinels, fault-tolerant worker pools, dead-letter queues, event-sourcing ledgers, resilient heartbeat monitors.</td>
+      <td><code>Asyncio</code> &bull; <code>Redis Streams</code> &bull; <code>WebSockets</code> &bull; <code>Workers</code></td>
+    </tr>
+    <tr>
+      <td><strong>Data Engineering & Storage</strong></td>
+      <td>Relational schema design, ACID transactions, timeseries ingestion, connection pooling, automated query optimization, zero-downtime migrations.</td>
+      <td><code>PostgreSQL</code> &bull; <code>SQLite (WAL)</code> &bull; <code>SQLAlchemy 2.0</code></td>
+    </tr>
+    <tr>
+      <td><strong>Full-Stack Applications & Systems UI</strong></td>
+      <td>Mission-control dashboards, real-time reactive interfaces, terminal-grade responsive design systems, low-latency telemetry visualizations.</td>
+      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code> &bull; <code>Next.js</code></td>
+    </tr>
+    <tr>
+      <td><strong>Systems Automation & Workstation CLI</strong></td>
+      <td>Native OS orchestration, batch workstation provisioning, unattended silent runners, shell defense automation, CI/CD GitOps pipelines.</td>
+      <td><code>C# / .NET</code> &bull; <code>PowerShell</code> &bull; <code>Bash (POSIX)</code> &bull; <code>Docker</code></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
-
-<div align="center">
+### &sect; Systems Telemetry & Languages
 
 ```
-  Languages   ::  Python  •  TypeScript  •  JavaScript  •  C#  •  SQL  •  Bash / PowerShell
-  Frameworks  ::  FastAPI  •  React  •  Next.js  •  Node.js  •  TailwindCSS
-  Protocols   ::  SNMP (RFC 3805/1514)  •  Raw UDP/TCP Sockets  •  REST APIs  •  CalDAV / IMAP
-  Systems     ::  Docker  •  Linux / Windows  •  GitOps  •  CI/CD Automation  •  HyperFrames
+  Primary Runtimes      ::  Python 3.12+ (Asyncio)  •  TypeScript / Node.js  •  C# (.NET 8+)
+  Protocols & Transport ::  HTTP/2 & REST  •  UDP Datagrams  •  TCP Sockets  •  WebSockets  •  SNMP
+  Persistence & Cache   ::  PostgreSQL  •  SQLite WAL  •  Redis  •  Distributed Event Logs
+  Infrastructure & Tool ::  Docker  •  Linux / POSIX  •  PowerShell  •  GitOps & CI/CD  •  HyperFrames
+  Engineering Standard  ::  Zero runtime dependencies where possible  •  Strict typing  •  TDD
 ```
-
-</div>
 
 ---
 
-### 📈 GitHub Activity
+### &sect; Verification & Output
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpatty-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="rpatty-dev GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpatty-dev&theme=tokyonight&hide_border=true&background=0b0f19&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8" alt="rpatty-dev GitHub Streak" />
 </p>
 
 </div>
@@ -109,6 +105,6 @@ I am part of **[Nitech](https://nitech.dev)**, architecting production-grade pla
 ---
 
 <div align="center">
-  <sub>Part of <strong>Nitech</strong> &bull; Clean code, zero fluff, high reliability.</sub><br>
+  <p><sub>ENGINEERED AT <strong>NITECH</strong> &bull; HIGH CONCURRENCY &bull; DETERMINISTIC &bull; ZERO BLOAT</sub></p>
   <sub>🌐 <a href="https://nitech.dev">nitech.dev</a> &bull; ✉️ <a href="mailto:info@nitech.dev">info@nitech.dev</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
 </div>
