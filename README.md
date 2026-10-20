@@ -56,17 +56,17 @@ And of course, professional larper. 🐇
 
 ---
 
-### 🐰 Autonomous Bunny Fleet: 10 Operational Agent Roles of the CBO
+### 🐰 Custom Agents building with me:
 
 <div align="center">
 
-| 🥕 Ideation & Ingestion | 💻 Core Dev & Shipping | 🚀 Release Deployer | 💬 Feedback & Eval Loop | 🥞 Root Cause / Hotfix |
+| `agent-ideation` | `agent-executor` | `agent-deployer` | `agent-evaluator` | `agent-debugger` |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="leroy/leroy-munch.gif" width="60" alt="Ideation Agent" /><br>**`agent-ideation`**<br><sub>Munching RFCs, specs & carrot backlog</sub> | <img src="leroy/leroy-laptop.gif" width="60" alt="Core Dev Agent" /><br>**`agent-executor`**<br><sub>Shipping low-latency code to prod</sub> | <img src="leroy/leroy-binky.gif" width="60" alt="Release Agent" /><br>**`agent-deployer`**<br><sub>Happy binky on 100% test pass & final push</sub> | <img src="leroy/leroy-love.gif" width="60" alt="Feedback Agent" /><br>**`agent-evaluator`**<br><sub>Human-in-the-loop love & peer review</sub> | <img src="leroy/leroy-flop.gif" width="60" alt="Pancake Fix Agent" /><br>**`agent-debugger`**<br><sub>Pancake flop to dissect stack traces & fix bugs</sub> |
+| <img src="leroy/leroy-munch.gif" width="60" alt="agent-ideation" /><br>`agent-ideation` | <img src="leroy/leroy-laptop.gif" width="60" alt="agent-executor" /><br>`agent-executor` | <img src="leroy/leroy-binky.gif" width="60" alt="agent-deployer" /><br>`agent-deployer` | <img src="leroy/leroy-love.gif" width="60" alt="agent-evaluator" /><br>`agent-evaluator` | <img src="leroy/leroy-flop.gif" width="60" alt="agent-debugger" /><br>`agent-debugger` |
 
-| 🔍 Security & Vuln Scout | 💤 Background Compilation | ⚡ Perf & Optimization | 👁️ Daemon & Sentinel | 🧼 Linter & Code Janitor |
+| `agent-sentinel` | `agent-builder` | `agent-optimizer` | `agent-watcher` | `agent-linter` |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="leroy/leroy-sniff.gif" width="60" alt="Sniffing Scout" /><br>**`agent-sentinel`**<br><sub>Sniffing out regressions, CVEs & leaks</sub> | <img src="leroy/leroy-sleep.gif" width="60" alt="Build Worker" /><br>**`agent-builder`**<br><sub>Sleeping peacefully while long builds run</sub> | <img src="leroy/leroy-zoomies.gif" width="60" alt="Optimization Agent" /><br>**`agent-optimizer`**<br><sub>Zoomies mode: cache hits, micro-opts & speed</sub> | <img src="leroy/leroy-peek.gif" width="60" alt="Observer Daemon" /><br>**`agent-watcher`**<br><sub>Peeking background telemetry & UDP daemons</sub> | <img src="leroy/leroy-clean.gif" width="60" alt="Grooming Janitor" /><br>**`agent-linter`**<br><sub>Self-cleaning code hygiene & debt elimination</sub> |
+| <img src="leroy/leroy-sniff.gif" width="60" alt="agent-sentinel" /><br>`agent-sentinel` | <img src="leroy/leroy-sleep.gif" width="60" alt="agent-builder" /><br>`agent-builder` | <img src="leroy/leroy-zoomies.gif" width="60" alt="agent-optimizer" /><br>`agent-optimizer` | <img src="leroy/leroy-peek.gif" width="60" alt="agent-watcher" /><br>`agent-watcher` | <img src="leroy/leroy-clean.gif" width="60" alt="agent-linter" /><br>`agent-linter` |
 
 </div>
 
