@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ryan Pattison &mdash; `rpatty`
+# rpatty &mdash; `rpatty`
 
 **Principal Systems Architect &bull; API & Autonomous Infrastructure Engineer &bull; Nitech**
 
