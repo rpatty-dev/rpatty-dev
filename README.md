@@ -70,6 +70,84 @@ And of course, professional larper. 🐇
 
 </div>
 
+<br/>
+
+<details>
+<summary><b>🔍 Phase 1: Ingestion & Architecture &bull; <code>agent-ideation</code> & <code>agent-evaluator</code></b></summary>
+<br/>
+
+- **`agent-ideation` &bull; Spec Ingestion & Roadmap Architect**
+  - **Triggers:** RFC drop, new feature issue, client requirements intake.
+  - **Stack & Tools:** Markdown AST parsers, dependency graph analyzers, task-breakdown pipelines.
+  - **Output:** Phased execution tracks, API interface contracts, dependency constraints.
+- **`agent-evaluator` &bull; Human-in-the-Loop & Evaluation Harness**
+  - **Triggers:** Pull request readiness, design divergence, critical security boundaries.
+  - **Stack & Tools:** Pre-commit evaluation runners, diff assertion verifiers, interactive review hooks.
+  - **Output:** Blocking review signals, design approval verdicts, alignment audits.
+
+</details>
+
+<details>
+<summary><b>💻 Phase 2: Core Execution & Compilation &bull; <code>agent-executor</code> & <code>agent-builder</code></b></summary>
+<br/>
+
+- **`agent-executor` &bull; Low-Latency Systems & Application Engineer**
+  - **Triggers:** Phase implementation tickets, active feature coding tasks.
+  - **Stack & Tools:** FiveM Lua 5.4 / QBox runtimes, Python 3.12, TypeScript / React / Vite, Tailwind CSS.
+  - **Output:** Production scripts, zero-dependency server modules, responsive NUI frontends.
+- **`agent-builder` &bull; Asynchronous Background Compilation Daemon**
+  - **Triggers:** Asset bundling events, Docker build chains, cross-platform packaging.
+  - **Stack & Tools:** Vite / esbuild / Rollup, cargo / rustc workers, background daemon supervisors.
+  - **Output:** Optimized client bundles, production artifacts, container images.
+
+</details>
+
+<details>
+<summary><b>🥞 Phase 3: Vulnerability & Root-Cause Analysis &bull; <code>agent-sentinel</code> & <code>agent-debugger</code></b></summary>
+<br/>
+
+- **`agent-sentinel` &bull; CVE & Regressions Watchdog**
+  - **Triggers:** Git push pre-validation, periodic dependency scans, memory leak detection.
+  - **Stack & Tools:** SAST scanners, raw UDP network probes, secret-leak scanners, AST analyzers.
+  - **Output:** Vulnerability reports, tainted input trace alerts, automated patch triggers.
+- **`agent-debugger` &bull; Hotfix & Root-Cause Dissector**
+  - **Triggers:** Uncaught exceptions, failing test assertions, telemetry anomaly alerts.
+  - **Stack & Tools:** Core dump inspection, stack trace bisectors, headless browser runners.
+  - **Output:** Minimal reproducing test cases, surgical patch commits, regression prevention notes.
+
+</details>
+
+<details>
+<summary><b>⚡ Phase 4: Runtime Performance & Hygiene &bull; <code>agent-optimizer</code> & <code>agent-linter</code></b></summary>
+<br/>
+
+- **`agent-optimizer` &bull; Micro-Optimizations & Latency Profiler**
+  - **Triggers:** High tick-rate loops, slow query telemetry, frame-time spikes (>5ms).
+  - **Stack & Tools:** Profilers (cProfile, perf), Redis cache tiering, SQL indexing tuners.
+  - **Output:** Sub-millisecond tick optimizations, optimized DB query plans, cache hit ratios.
+- **`agent-linter` &bull; Code Hygiene & Technical Debt Janitor**
+  - **Triggers:** Post-merge maintenance, linting hooks, orphan dependency detection.
+  - **Stack & Tools:** ESLint, Ruff, ShellCheck, tree-shaking dead-code analyzers.
+  - **Output:** Automated code cleanup, zero-warning builds, strict style adherence.
+
+</details>
+
+<details>
+<summary><b>🚀 Phase 5: Release & Continuous Observability &bull; <code>agent-deployer</code> & <code>agent-watcher</code></b></summary>
+<br/>
+
+- **`agent-deployer` &bull; Production Release & CD Pipeline**
+  - **Triggers:** All test checks passed, semantic version bumps, release tags.
+  - **Stack & Tools:** GitHub Actions, Git release tags, automated changelog pipelines, server hooks.
+  - **Output:** Verified zero-downtime production deployments, published artifacts.
+- **`agent-watcher` &bull; Daemon Sentinel & Telemetry Observer**
+  - **Triggers:** Continuous 24/7 background service monitoring.
+  - **Stack & Tools:** Raw UDP socket pingers (RFC 3805/1514), SNMP telemetry loops, REST heartbeat monitors.
+  - **Output:** Real-time uptime telemetry, low-supply inventory alerts, automatic failover actions.
+
+</details>
+
+
 ---
 
 ### 🚀 Selected Systems & Tools Built
