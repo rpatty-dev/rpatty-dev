@@ -9,7 +9,9 @@
 <br/>
 
 <p align="center">
-  <img src="lop-bunny.gif" alt="8-bit Lop Bunny" width="120" />
+  <img src="lop-front.gif" alt="Agouti Lop Bunny Front" width="68" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="lop-side.gif" alt="Agouti Lop Bunny Loaf" width="68" />
 </p>
 
 <p align="center">
@@ -19,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="ascii-bunny.gif" alt="Animated ASCII Lop Bunny" width="360" />
+  <img src="ascii-bunny.gif" alt="Animated ASCII Lop Bunny" width="340" />
 </p>
 
 <br/>
@@ -48,6 +50,8 @@ And of course, professional larper. 🐇
 ---
 
 ### 🚀 Selected Systems & Tools Built
+
+<img align="right" src="lop-front.gif" width="48" alt="bunny" />
 
 A portfolio of custom production tools, field automation apps, hardware sentinels, and growth engines built across enterprise operations and client projects:
 
@@ -81,6 +85,8 @@ A portfolio of custom production tools, field automation apps, hardware sentinel
 ---
 
 ### 🛠️ Capabilities & Tech Matrix
+
+<img align="right" src="lop-side.gif" width="48" alt="bunny" />
 
 <table>
   <thead>
