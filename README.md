@@ -4,7 +4,7 @@
 
 **Agency Operator &bull; Full-Stack Systems Architect &bull; FiveM & Game Systems Engineer &bull; Nitech**
 
-*Professional larper. Chief Bunny Officer: **Leroy**.*
+*Professional larper. **Leroy** 🐇*
 
 <br/>
 
@@ -45,11 +45,11 @@
   <table style="border: 1px solid #363530; background: #1c1b18; border-radius: 8px;">
     <tr>
       <td width="72" align="center" style="border: none;">
-        <img src="leroy/leroy-sleep.gif" width="58" alt="Leroy CBO" />
+        <img src="leroy/leroy-sleep.gif" width="58" alt="Leroy" />
       </td>
       <td align="left" style="border: none; padding-left: 12px;">
-        <b>🐰 Leroy (Chief Bunny Officer) Live Duty: <code>agent-builder</code></b><br/>
-        <sub>Compilation daemon humming smoothly in background while CBO recharges.</sub><br/>
+        <b>🐰 Leroy Live Duty: <code>agent-builder</code></b><br/>
+        <sub>Compilation daemon humming smoothly in background while Leroy recharges.</sub><br/>
         <sub><b>Current Fuel:</b> Cozy blanket snooze 💤 &bull; <b>Status:</b> Resting between build triggers 😴 &bull; <i>Updated: 2026-10-20 15:40 UTC</i></sub>
       </td>
     </tr>
@@ -311,6 +311,6 @@ A portfolio of custom production tools, FiveM game engines, field automation app
 ---
 
 <div align="center">
-  <p><sub>Built with care at <strong>Nitech</strong> 🐇 &bull; Chief Bunny Officer: <strong>Leroy</strong>.</sub></p>
+  <p><sub>Built with care at <strong>Nitech</strong> 🐇 &bull; <strong>Leroy</strong> 🐇.</sub></p>
   <sub>🌐 <a href="https://nitech.dev">nitech.dev</a> &bull; ✉️ <a href="mailto:info@nitech.dev">info@nitech.dev</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
 </div>

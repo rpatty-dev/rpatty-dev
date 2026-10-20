@@ -48,7 +48,7 @@ ACTIVITIES = [
     {
         "agent": "agent-builder",
         "gif": "leroy/leroy-sleep.gif",
-        "status": "Compilation daemon humming smoothly in background while CBO recharges.",
+        "status": "Compilation daemon humming smoothly in background while Leroy recharges.",
         "fuel": "Cozy blanket snooze 💤",
         "mood": "Resting between build triggers 😴"
     },
@@ -88,10 +88,10 @@ def update_readme():
   <table style="border: 1px solid #363530; background: #1c1b18; border-radius: 8px;">
     <tr>
       <td width="72" align="center" style="border: none;">
-        <img src="{act['gif']}" width="58" alt="Leroy CBO" />
+        <img src="{act['gif']}" width="58" alt="Leroy" />
       </td>
       <td align="left" style="border: none; padding-left: 12px;">
-        <b>🐰 Leroy (Chief Bunny Officer) Live Duty: <code>{act['agent']}</code></b><br/>
+        <b>🐰 Leroy Live Duty: <code>{act['agent']}</code></b><br/>
         <sub>{act['status']}</sub><br/>
         <sub><b>Current Fuel:</b> {act['fuel']} &bull; <b>Status:</b> {act['mood']} &bull; <i>Updated: {timestamp}</i></sub>
       </td>
@@ -116,7 +116,7 @@ def update_readme():
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(updated)
-    print("README updated with live Leroy CBO status!")
+    print("README updated with live Leroy status!")
 
 if __name__ == "__main__":
     update_readme()
