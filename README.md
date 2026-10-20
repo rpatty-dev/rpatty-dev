@@ -158,6 +158,32 @@ And of course, professional larper. 🐇
 
 ---
 
+### 🚀 Featured Repositories & Sentinel Platforms
+
+<div align="center">
+
+<a href="https://github.com/rpatty-dev/PrinterPing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpatty-dev&repo=PrinterPing&bg_color=1c1b18&title_color=c3b4a0&text_color=af9b82&icon_color=917960&border_color=363530&border_radius=8" alt="PrinterPing" />
+</a>
+&nbsp;
+<a href="https://github.com/rpatty-dev/MOTPing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpatty-dev&repo=MOTPing&bg_color=1c1b18&title_color=c3b4a0&text_color=af9b82&icon_color=917960&border_color=363530&border_radius=8" alt="MOTPing" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/rpatty-dev/Pitlane">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpatty-dev&repo=Pitlane&bg_color=1c1b18&title_color=c3b4a0&text_color=af9b82&icon_color=917960&border_color=363530&border_radius=8" alt="Pitlane" />
+</a>
+&nbsp;
+<a href="https://github.com/rpatty-dev/winstaller">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpatty-dev&repo=winstaller&bg_color=1c1b18&title_color=c3b4a0&text_color=af9b82&icon_color=917960&border_color=363530&border_radius=8" alt="winstaller" />
+</a>
+
+</div>
+
+---
+
 ### 🚀 Selected Systems & Tools Built
 
 <img align="right" src="leroy/leroy-laptop.gif" width="52" alt="Leroy coding" />
