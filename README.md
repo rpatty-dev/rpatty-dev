@@ -2,12 +2,12 @@
 
 # Hey, I'm Ryan (`rpatty`) 👋
 
-### Systems Engineer & Full-Stack Developer &bull; Building Autonomous Infrastructure & Fleet Tools
+### Systems Engineer & Full-Stack Developer &bull; Building Autonomous Infrastructure & Fleet Tools at **[Nitech](https://nitech.dev)**
 
 <p align="center">
-  <a href="https://www.rpatty.xyz"><img src="https://img.shields.io/badge/Portfolio-rpatty.xyz-38bdf8?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nitech.dev"><img src="https://img.shields.io/badge/Website-nitech.dev-38bdf8?style=for-the-badge&logo=safari&logoColor=white" alt="Nitech" /></a>
   <a href="https://github.com/rpatty-dev"><img src="https://img.shields.io/badge/GitHub-rpatty--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ryan@mamobuildingservices.com"><img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+  <a href="mailto:info@nitech.dev"><img src="https://img.shields.io/badge/Contact-info%40nitech.dev-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
 ```
@@ -21,10 +21,16 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+zero-dependency+sentinels+%26+monitoring+tools;Full-stack+fleet+management+%26+workshop+intake;Pure-Python+hardware+protocols+(SNMP%2C+OBD-II%2C+GPS);Autonomous+agentic+engineering+%26+modern+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Part+of+Nitech;Building+zero-dependency+sentinels+%26+monitoring+tools;Full-stack+fleet+management+%26+workshop+intake;Pure-Python+hardware+protocols+(SNMP%2C+OBD-II%2C+GPS)" alt="Typing SVG" />
 </p>
 
 </div>
+
+---
+
+### 🏢 About & Affiliation
+
+I am part of **[Nitech](https://nitech.dev)**, architecting production-grade platforms, vehicle intake systems, hardware sentinels, and enterprise tooling. Focused on zero-dependency utilities, raw network protocols, and bulletproof operational software.
 
 ---
 
@@ -90,17 +96,12 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 GitHub Activity
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rpatty-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="rpatty-dev GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpatty-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="rpatty-dev GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rpatty-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpatty-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="rpatty-dev GitHub Streak" />
 </p>
 
 </div>
@@ -108,6 +109,6 @@
 ---
 
 <div align="center">
-  <sub>Engineered with precision &bull; Clean code, zero fluff, high reliability.</sub><br>
-  <sub>🌐 <a href="https://www.rpatty.xyz">rpatty.xyz</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
+  <sub>Part of <strong>Nitech</strong> &bull; Clean code, zero fluff, high reliability.</sub><br>
+  <sub>🌐 <a href="https://nitech.dev">nitech.dev</a> &bull; ✉️ <a href="mailto:info@nitech.dev">info@nitech.dev</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
 </div>
