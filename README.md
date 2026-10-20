@@ -2,7 +2,7 @@
 
 # Hey, I'm Ryan (`rpatty`) 👋
 
-### Systems Engineer & Full-Stack Developer &bull; Building Autonomous Infrastructure & Fleet Tools at **[Nitech](https://nitech.dev)**
+### Professional larper &bull; Systems Engineer &bull; Part of **[Nitech](https://nitech.dev)**
 
 <p align="center">
   <a href="https://nitech.dev"><img src="https://img.shields.io/badge/Website-nitech.dev-38bdf8?style=for-the-badge&logo=safari&logoColor=white" alt="Nitech" /></a>
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Part+of+Nitech;Building+zero-dependency+sentinels+%26+monitoring+tools;Full-stack+fleet+management+%26+workshop+intake;Pure-Python+hardware+protocols+(SNMP%2C+OBD-II%2C+GPS)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Professional+larper;Part+of+Nitech;Building+zero-dependency+sentinels+%26+monitoring+tools;Full-stack+fleet+management+%26+workshop+intake;Pure-Python+hardware+protocols+(SNMP%2C+OBD-II%2C+GPS)" alt="Typing SVG" />
 </p>
 
 </div>
