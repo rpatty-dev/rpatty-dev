@@ -36,13 +36,47 @@
 
 Hey! I’m **rpatty**, operating at **[Nitech](https://nitech.dev)**.
 
-I don’t just write code — I build and run full-cycle businesses:
-- **Agencies & Growth:** Scaling client acquisition, brand ops, and high-converting paid traffic campaigns (Facebook & Meta Ads) backed by deep tracking and attribution.
-- **Analytics & Data Pipelines:** Custom revenue dashboards, conversion analytics, event tracking, and telemetry infrastructure that tell you the truth about your numbers.
-- **Everyday Life & Smart Home Automation:** Designing frictionless IoT ecosystems, local-first home automations, autonomous schedulers, and background daemons that handle daily routines silently.
-- **Zero-Dependency Systems & APIs:** High-speed, lightweight backend engines, raw network protocol handlers (UDP/TCP/SNMP), and resilient state-machines built with zero third-party bloat.
+I don’t just write code — I build, deploy, and operate high-impact production software and growth businesses:
+- **Agencies & Paid Media:** Scaling client acquisition, brand operations, and high-converting paid traffic engines (Meta/Facebook Ads) with custom tracking, conversion API wiring, and campaign architecture.
+- **Internal Tools & Field Operations:** Turning tedious paper workflows, inspections, repair jobs, and field team processes into automated, click-and-done mobile web apps.
+- **Hardware Protocols & Zero-Dependency Sentinels:** Autonomous daemons that interface directly with raw UDP/TCP sockets, SNMP MIBs, and telemetry APIs with zero third-party library overhead.
+- **Custom Browser Extensions & Automation Scripts:** Custom Tampermonkey/userscripts and Chrome extensions that accelerate enterprise CRM, ERP, and dispatch systems by 10x.
+- **Smart Home & Everyday Automations:** Frictionless IoT orchestration, ambient sensor monitoring, and automated background schedulers.
 
 And of course, professional larper. 🐇
+
+---
+
+### 🚀 Selected Systems & Tools Built
+
+A portfolio of custom production tools, field automation apps, hardware sentinels, and growth engines built across enterprise operations and client projects:
+
+#### 📡 Hardware Sentinels & Telemetry Daemons
+- **PrinterPing:** Pure-Python zero-dependency SNMP supply monitor (RFC 3805/1514). Polls raw UDP 161 sockets, tracks multi-toner and imaging drum levels, cross-references storeroom spare inventory, and triggers automated low-supply alerts.
+- **MOTPing:** Autonomous vehicle compliance engine and REST sentinel querying government DVSA/DVLA APIs for automated fleet road tax and inspection schedules with instant SMS/email reminders.
+- **Fleet Telemetry & Intake (Pitlane):** High-speed workshop intake and vehicle repair platform with real-time technician workflows, parts tracking, and automated service logging.
+- **Van Tracker & GPS Sentinel:** Real-time multi-vehicle GPS fleet tracking portal with route playback, speed telemetry, geofencing, and driver shift logs.
+
+#### 🏢 Enterprise Operations & Field Automation
+- **Job Summary Maker:** Automated job sheet generator converting messy field technician notes and raw work orders into standardized, client-ready completion summaries in seconds.
+- **Fire Door Compliance Checklist:** Digital mobile inspection suite for certified fire door safety audits, photo documentation, tolerance logging, and instant compliance PDF generation.
+- **WASP Emergency Response App:** Rapid incident logging, job dispatch, and site hazard tracking platform designed for fast-paced field operations and emergency work orders.
+- **Van Mechanic Logger:** Dedicated workshop maintenance ledger recording vehicle service histories, parts consumed, MOT repairs, and preventive maintenance milestones.
+- **Asset Sizing & Fabrication Estimator:** Custom parametric calculation engine for sizing, estimating, and spec’ing structural fabrication components and safety grates.
+
+#### ⚡ Workflow Acceleration & Custom Browser Engines
+- **Enterprise ERP Quick Job Search:** Fast keyboard-driven indexer and search utility that shortcuts slow legacy housing management software to retrieve work orders in under 50ms.
+- **ERP Error Resolver & Diagnostic Tool:** Intelligent error parsing tool that decodes ambiguous enterprise database exception codes into actionable one-click resolution steps.
+- **Portal Automation Extension (Tampermonkey):** High-efficiency userscript injecting instant hotkeys, auto-filling claim submissions, and bypassing repetitive form fields in housing portals.
+- **Commercial Property Scraping & Search Extension:** Chrome extension extracting live commercial property listings, tenancy data, and yield metrics directly from property portals into structured spreadsheets.
+- **Contractor Claims Processor:** Batch processing engine that audits contractor job completion data, reconciles line items against schedule-of-rates (SOR) codes, and exports clean invoice claims.
+
+#### 📈 Growth, Agency & Marketing Operations
+- **Paid Ads Acquisition Engine (Meta/Facebook):** Full-funnel campaign architectures, creative iteration pipelines, and custom conversion tracking for agency lead generation.
+- **Automated Newsletter Publisher:** Dynamic newsletter engine formatting weekly client updates, announcements, and promotional assets into clean responsive HTML templates.
+- **Social Media Content Pipeline:** Multi-channel asset preparation tool organizing campaign graphics, caption presets, and publishing schedules for consistent branding.
+- **Interactive Security & CCTV Coverage Mapper:** Interactive visual map overlaying site plans with camera sightlines, coverage zones, and hardware specs for client security pitches.
+- **Fuel Price Intelligence Tracker:** Automated scraper and comparison tool tracking regional fuel prices across commercial filling stations to optimize fleet routing and fuel spend.
 
 ---
 
@@ -51,36 +85,41 @@ And of course, professional larper. 🐇
 <table>
   <thead>
     <tr>
-      <th align="left" width="30%">Focus Area</th>
-      <th align="left" width="45%">What I Deliver</th>
-      <th align="left" width="25%">Tools &amp; Stack</th>
+      <th align="left" width="28%">Domain</th>
+      <th align="left" width="46%">What I Deliver</th>
+      <th align="left" width="26%">Tools &amp; Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>📈 Agency &amp; Paid Media</strong></td>
-      <td>Media buying, Facebook Ads scaling, campaign architecture, conversion tracking, creative testing frameworks, and client acquisition funnels.</td>
+      <td>Media buying, Meta/Facebook Ads scaling, campaign architecture, CAPI conversion tracking, and high-intent acquisition funnels.</td>
       <td><code>Meta Ads Manager</code> &bull; <code>Conversions API</code> &bull; <code>Attribution</code></td>
     </tr>
     <tr>
-      <td><strong>📊 Business Analytics</strong></td>
-      <td>Real-time business dashboards, custom event ingestion, Cohort retention, profit tracking, and automated reporting.</td>
-      <td><code>PostgreSQL</code> &bull; <code>SQLite WAL</code> &bull; <code>Redis</code> &bull; <code>Chart.js</code></td>
-    </tr>
-    <tr>
-      <td><strong>🏠 Smart Home &amp; Life Automations</strong></td>
-      <td>Frictionless everyday automations, local IoT controls, ambient sensors, task orchestration, and scheduled daemon routines.</td>
-      <td><code>Home Automation</code> &bull; <code>Webhooks</code> &bull; <code>cron/Task Scheduler</code></td>
-    </tr>
-    <tr>
-      <td><strong>⚡ APIs &amp; Low-Level Protocols</strong></td>
-      <td>Zero-dependency RFC implementations, raw socket servers, async REST microservices, and autonomous background sentinels.</td>
+      <td><strong>⚡ APIs &amp; Network Protocols</strong></td>
+      <td>Zero-dependency RFC implementations, raw UDP/TCP socket servers, async REST microservices, and autonomous background sentinels.</td>
       <td><code>Python (Asyncio)</code> &bull; <code>FastAPI</code> &bull; <code>Raw Sockets</code> &bull; <code>SNMP</code></td>
     </tr>
     <tr>
-      <td><strong>🖥️ Full-Stack &amp; Desktop Tools</strong></td>
-      <td>Snappy, responsive web apps, internal company portals, and native Windows automation utilities.</td>
-      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code> &bull; <code>C# / .NET</code></td>
+      <td><strong>📊 Business Analytics &amp; Data</strong></td>
+      <td>Real-time operational dashboards, custom event ingestion, SQL analytics, fleet telemetry, and automated performance reporting.</td>
+      <td><code>PostgreSQL</code> &bull; <code>SQLite WAL</code> &bull; <code>Redis</code> &bull; <code>Chart.js</code></td>
+    </tr>
+    <tr>
+      <td><strong>🖥️ Full-Stack &amp; Field Apps</strong></td>
+      <td>Mobile-first inspection apps, snappy responsive web portals, and terminal-grade responsive design systems.</td>
+      <td><code>TypeScript</code> &bull; <code>React</code> &bull; <code>TailwindCSS</code> &bull; <code>Next.js</code></td>
+    </tr>
+    <tr>
+      <td><strong>🧩 Browser Extensions &amp; Scripts</strong></td>
+      <td>Custom Chrome extensions (Manifest V3) and Tampermonkey automations that accelerate enterprise ERPs and portal workflows.</td>
+      <td><code>JavaScript</code> &bull; <code>DOM Manipulation</code> &bull; <code>Userscripts</code></td>
+    </tr>
+    <tr>
+      <td><strong>🏠 Smart Home &amp; Automation</strong></td>
+      <td>Frictionless everyday automations, local IoT controls, ambient sensors, task orchestration, and scheduled daemon routines.</td>
+      <td><code>Home Automation</code> &bull; <code>Webhooks</code> &bull; <code>PowerShell / Bash</code></td>
     </tr>
   </tbody>
 </table>
