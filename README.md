@@ -4,14 +4,20 @@
 
 **Agency Operator &bull; Full-Stack Systems Architect &bull; Automation Engineer &bull; Nitech**
 
-*Professional larper.*
+*Professional larper. Chief Bunny Officer: **Leroy**.*
 
 <br/>
 
 <p align="center">
-  <img src="lop-front.gif" alt="Agouti Lop Bunny Front" width="68" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lop-side.gif" alt="Agouti Lop Bunny Loaf" width="68" />
+  <img src="leroy/leroy-munch.gif" alt="Leroy Munching Carrot" width="64" />
+  &nbsp;&nbsp;
+  <img src="leroy/leroy-laptop.gif" alt="Leroy Coding at Laptop" width="64" />
+  &nbsp;&nbsp;
+  <img src="leroy/leroy-binky.gif" alt="Leroy Doing a Binky" width="64" />
+  &nbsp;&nbsp;
+  <img src="leroy/leroy-love.gif" alt="Leroy Love" width="64" />
+  &nbsp;&nbsp;
+  <img src="leroy/leroy-flop.gif" alt="Leroy Flop" width="64" />
 </p>
 
 <p align="center">
@@ -36,7 +42,7 @@
 
 ### 🐰 About & What I Build
 
-Hey! I’m **rpatty**, operating at **[Nitech](https://nitech.dev)**.
+Hey! I’m **rpatty**, operating at **[Nitech](https://nitech.dev)** alongside Leroy the lop rabbit. 🐇
 
 I don’t just write code — I build, deploy, and operate high-impact production software and growth businesses:
 - **Agencies & Paid Media:** Scaling client acquisition, brand operations, and high-converting paid traffic engines (Meta/Facebook Ads) with custom tracking, conversion API wiring, and campaign architecture.
@@ -49,9 +55,25 @@ And of course, professional larper. 🐇
 
 ---
 
+### 🐰 Meet Leroy: 10 Moods of the Chief Bunny Officer
+
+<div align="center">
+
+| Munching | Laptop Dev | Happy Binky | Love Heart | Pancake Flop |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="leroy/leroy-munch.gif" width="56" alt="Munching" /><br><sub>Carrot Time</sub> | <img src="leroy/leroy-laptop.gif" width="56" alt="Laptop" /><br><sub>Shipping Code</sub> | <img src="leroy/leroy-binky.gif" width="56" alt="Binky" /><br><sub>Pure Joy</sub> | <img src="leroy/leroy-love.gif" width="56" alt="Love" /><br><sub>Good Vibes</sub> | <img src="leroy/leroy-flop.gif" width="56" alt="Flop" /><br><sub>Nap Flat</sub> |
+
+| Sniffing | Sleeping | Zoomies | Peeking | Grooming |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="leroy/leroy-sniff.gif" width="56" alt="Sniffing" /><br><sub>Curious</sub> | <img src="leroy/leroy-sleep.gif" width="56" alt="Sleep" /><br><sub>zZz</sub> | <img src="leroy/leroy-zoomies.gif" width="56" alt="Zoomies" /><br><sub>Speed Demon</sub> | <img src="leroy/leroy-peek.gif" width="56" alt="Peek" /><br><sub>Hello!</sub> | <img src="leroy/leroy-clean.gif" width="56" alt="Clean" /><br><sub>Face Wash</sub> |
+
+</div>
+
+---
+
 ### 🚀 Selected Systems & Tools Built
 
-<img align="right" src="lop-front.gif" width="48" alt="bunny" />
+<img align="right" src="leroy/leroy-laptop.gif" width="52" alt="Leroy coding" />
 
 A portfolio of custom production tools, field automation apps, hardware sentinels, and growth engines built across enterprise operations and client projects:
 
@@ -86,7 +108,7 @@ A portfolio of custom production tools, field automation apps, hardware sentinel
 
 ### 🛠️ Capabilities & Tech Matrix
 
-<img align="right" src="lop-side.gif" width="48" alt="bunny" />
+<img align="right" src="leroy/leroy-peek.gif" width="52" alt="Leroy peek" />
 
 <table>
   <thead>
@@ -145,6 +167,6 @@ A portfolio of custom production tools, field automation apps, hardware sentinel
 ---
 
 <div align="center">
-  <p><sub>Built with care at <strong>Nitech</strong> 🐇 &bull; High signal, zero fluff.</sub></p>
+  <p><sub>Built with care at <strong>Nitech</strong> 🐇 &bull; Chief Bunny Officer: <strong>Leroy</strong>.</sub></p>
   <sub>🌐 <a href="https://nitech.dev">nitech.dev</a> &bull; ✉️ <a href="mailto:info@nitech.dev">info@nitech.dev</a> &bull; 💼 <a href="https://github.com/rpatty-dev">github.com/rpatty-dev</a></sub>
 </div>
