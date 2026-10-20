@@ -54,6 +54,14 @@ I don’t just write code — I build, deploy, and operate high-impact productio
 
 And of course, professional larper. 🐇
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rpatty-dev&show_icons=true&bg_color=1c1b18&title_color=c3b4a0&text_color=af9b82&icon_color=917960&border_color=363530&border_radius=8" alt="rpatty-dev GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=rpatty-dev&background=1c1b18&border=363530&stroke=917960&ring=c3b4a0&fire=917960&currStreakLabel=c3b4a0&sideLabels=af9b82&currStreakNum=c3b4a0&sideNums=c3b4a0&dates=887b6c&border_radius=8" alt="rpatty-dev GitHub Streak" height="165" />
+</p>
+
 ---
 
 ### 🐰 Custom Agents building with me:
