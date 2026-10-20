@@ -2,7 +2,7 @@
 
 # `rpatty` 🐇
 
-**Agency Operator &bull; Full-Stack Systems Architect &bull; Automation Engineer &bull; Nitech**
+**Agency Operator &bull; Full-Stack Systems Architect &bull; FiveM & Game Systems Engineer &bull; Nitech**
 
 *Professional larper. Chief Bunny Officer: **Leroy**.*
 
@@ -33,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Running+digital+agencies+%26+growth+campaigns;Scaling+paid+acquisition+%26+Facebook+Ads+infrastructure;Building+real-time+business+analytics+%26+dashboards;Automating+smart+homes%2C+IoT+%26+everyday+workflows;Engineering+zero-dependency+APIs+%26+autonomous+sentinels" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Engineering+custom+FiveM+Lua+scripts+%26+QBox%2FQB-Core;Running+digital+agencies+%26+growth+campaigns;Scaling+paid+acquisition+%26+Facebook+Ads+infrastructure;Building+real-time+business+analytics+%26+dashboards;Automating+smart+homes%2C+IoT+%26+everyday+workflows;Zero-dependency+APIs%2C+raw+sockets+%26+autonomous+sentinels" alt="Typing SVG" /></a>
 </p>
 
 </div>
@@ -44,7 +44,8 @@
 
 Hey! I’m **rpatty**, operating at **[Nitech](https://nitech.dev)** alongside Leroy the lop rabbit. 🐇
 
-I don’t just write code — I build, deploy, and operate high-impact production software and growth businesses:
+I don’t just write code — I build, deploy, and operate high-impact production software, game systems, and growth businesses:
+- **FiveM & Multiplayer Game Development:** Architecting low-latency game scripts, custom framework extensions (QBox, QB-Core, ESX), interactive UI minigames, custom economy loops, and server-side synchronization engines.
 - **Agencies & Paid Media:** Scaling client acquisition, brand operations, and high-converting paid traffic engines (Meta/Facebook Ads) with custom tracking, conversion API wiring, and campaign architecture.
 - **Internal Tools & Field Operations:** Turning tedious paper workflows, inspections, repair jobs, and field team processes into automated, click-and-done mobile web apps.
 - **Hardware Protocols & Zero-Dependency Sentinels:** Autonomous daemons that interface directly with raw UDP/TCP sockets, SNMP MIBs, and telemetry APIs with zero third-party library overhead.
@@ -75,7 +76,14 @@ And of course, professional larper. 🐇
 
 <img align="right" src="leroy/leroy-laptop.gif" width="52" alt="Leroy coding" />
 
-A portfolio of custom production tools, field automation apps, hardware sentinels, and growth engines built across enterprise operations and client projects:
+A portfolio of custom production tools, FiveM game engines, field automation apps, hardware sentinels, and growth engines built across enterprise operations and client projects:
+
+#### 🎮 FiveM Multiplayer Scripting & Game Engines (QBox / QB-Core)
+- **Vehicle Boosting & Contract System (`rpa-boosting`):** Dynamic Tier-based vehicle hacking, VIN scratching, police dispatch triggers, and GPS tracker removal minigames.
+- **Emergency Services Sync & Blips (`rpa-ems-police-blips`):** High-frequency server-synced map markers, callout routing, unit status indicators, and department radio channels.
+- **Underground Smuggling & Economy Loops (`rpa-fegsmuggle` & `rpa-reddiesel`):** Custom illegal transport routes, fuel-siphoning mechanics, contraband inspection systems, and laundering networks.
+- **Target Interaction Suites (`rpa-thirdeyepolice` & `rpa-admin`):** Context-aware entity targeting (ox_target/qb-target), duty toggles, impound dispatch, and live administrator management menus.
+- **Minigame & Utility Modules (`rpatty-dumpster`, `rpattynitrous`, `lockpick-fix`):** Skill-check UI minigames, synchronized vehicle nitrous purges, and server-wide lockpicking overhauls.
 
 #### 📡 Hardware Sentinels & Telemetry Daemons
 - **PrinterPing:** Pure-Python zero-dependency SNMP supply monitor (RFC 3805/1514). Polls raw UDP 161 sockets, tracks multi-toner and imaging drum levels, cross-references storeroom spare inventory, and triggers automated low-supply alerts.
@@ -86,7 +94,7 @@ A portfolio of custom production tools, field automation apps, hardware sentinel
 #### 🏢 Enterprise Operations & Field Automation
 - **Job Summary Maker:** Automated job sheet generator converting messy field technician notes and raw work orders into standardized, client-ready completion summaries in seconds.
 - **Fire Door Compliance Checklist:** Digital mobile inspection suite for certified fire door safety audits, photo documentation, tolerance logging, and instant compliance PDF generation.
-- **WASP Emergency Response App:** Rapid incident logging, job dispatch, and site hazard tracking platform designed for fast-paced field operations and emergency work orders.
+- **Field Emergency Response App:** Rapid incident logging, job dispatch, and site hazard tracking platform designed for fast-paced field operations and emergency work orders.
 - **Van Mechanic Logger:** Dedicated workshop maintenance ledger recording vehicle service histories, parts consumed, MOT repairs, and preventive maintenance milestones.
 - **Asset Sizing & Fabrication Estimator:** Custom parametric calculation engine for sizing, estimating, and spec’ing structural fabrication components and safety grates.
 
@@ -119,6 +127,11 @@ A portfolio of custom production tools, field automation apps, hardware sentinel
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>🎮 FiveM &amp; Game Scripts</strong></td>
+      <td>Server-authoritative game loops, QBox/QB-Core resources, ox_target interactions, NUI webviews, and synchronized multiplayer events.</td>
+      <td><code>Lua 5.4</code> &bull; <code>QBox / QB-Core</code> &bull; <code>NUI / HTML / JS</code> &bull; <code>oxmysql</code></td>
+    </tr>
     <tr>
       <td><strong>📈 Agency &amp; Paid Media</strong></td>
       <td>Media buying, Meta/Facebook Ads scaling, campaign architecture, CAPI conversion tracking, and high-intent acquisition funnels.</td>
